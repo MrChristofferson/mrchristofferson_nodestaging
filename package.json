@@ -1,0 +1,22 @@
+{
+  "name": "mrchristofferson_nodestaging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrChristofferson/mrchristofferson_nodestaging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrChristofferson/mrchristofferson_nodestaging/issues"
+  },
+  "homepage": "https://github.com/MrChristofferson/mrchristofferson_nodestaging#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
